@@ -1,0 +1,27 @@
+#Se declara la variable
+calificacion = input("introduce tu calificación: ")
+calificacion = int(calificacion)
+
+#Se ejecuta el if
+if calificacion < 700 : 
+    print("Lo que pasa por no estudiar 😥, suerte a la próxima")#Si es menor de 700 manda esto
+
+elif calificacion > 1000 : 
+    print("Mentiroso, el máximo era 1000")
+
+else : #Si no se cumple el If anterior se ejecuta lo siguiente
+    print("Felicidades, lo lograste!!!!")
+
+
+#Verificador de edad
+edad = input("Introduce tu edad: ")
+edad = int(edad)
+
+if edad >= 18 and edad <= 100 : 
+    print("Felicidades llegaste al mundo de los adultos, suerte en tu viaje")
+elif edad > 100 :
+    print("Veterano experto")
+elif edad < 0 : 
+    print("Ni que viajaras en el tiempo 🤣🤣🤣")
+else : 
+    print("Disfruta mientras puedas")
