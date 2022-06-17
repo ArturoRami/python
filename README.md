@@ -17,5 +17,4 @@ Escritura normal.
 Prueba de [link](https://www.youtube.com/watch?v=WSOVElyH9Lk) funcional
 
 ---------------------------------------------------------------------------------------------------
-
-![Imagen]([imagenes\chrome shelled.jpg](https://github.com/ArturoRami/python/blob/main/imagenes/chrome%20shelled.jpg)) 
+![](https://github.com/ArturoRami/python/blob/main/imagenes/chrome%20shelled.jpg)
